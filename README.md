@@ -1,2 +1,1 @@
-# Tindog
-Experiment Tindog website to practice bootstrap use
+TinDog Starting Files
