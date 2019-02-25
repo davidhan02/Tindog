@@ -173,3 +173,12 @@ p {
     transform: rotate(0);
   }
 }
+
+@media (max-width: 800px) {
+  #title .container-fluid {
+    padding: 3% 5% 7%;
+  }
+  .container-fluid {
+    padding: 7% 5%;
+  }
+}
